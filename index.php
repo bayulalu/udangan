@@ -4,7 +4,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Wedding &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>Syukuran dan Akikah!</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -65,8 +65,6 @@
 			<div class="row">
 				<div class="col-md-10 col-md-offset-1 text-center fh5co-heading animate-box">
 					<h2>Syukuran dan Akikah!</h2>
-					<!-- <h3>November 28th, 2016 New York, USA</h3> -->
-					<!-- <p>We invited you to celebrate our wedding</p> -->
 				</div>
 			</div>
 			<h3 class="text-center ass">Assalamu'alakum Wr.Wb.</h3>
