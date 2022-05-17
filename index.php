@@ -96,7 +96,7 @@
 						<ul>
 							<li>Hari/Tanggal : Kamis, 26 Mei 2022  </li>
 							<li>Pukul : 11.00 WITA  </li>
-							<li>Alamat : <a href="https://goo.gl/maps/18xS1zk3uPRnCAsk8" target="_blank"> Belakang SD 1 Kalianyar Kec Terara Lotim </a> </li>
+							<li>Alamat : <a href="https://goo.gl/maps/18xS1zk3uPRnCAsk8" target="_blank"> Belakang SDN 1 Kalianyar Kec Terara Lotim </a> </li>
 
 						</ul>
 				
