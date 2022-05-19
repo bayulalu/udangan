@@ -25,6 +25,13 @@ body {
     /* margin-bottom: 10px; */
     line-height: 1.5;
 }
+.ass2{
+  color: #0578d0;
+  font-family: "Sacramento", Arial, serif;
+  font-size: 35px;
+    margin-bottom: -10px;
+    line-height: 1.5;
+}
 #page {
   position: relative;
   overflow-x: hidden;

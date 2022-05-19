@@ -108,6 +108,10 @@
 		<br>
 		<p class="text-center">Merupakan suatu kehormatan bagi kami sekeluarga apabila Bapak/Ibu berkenan <br> hadir untuk bersama salam acara tersebut</p>
 			<p class="text-center">Teriamakasih Atas kehadirannya dan doanya kami ucapakan terimakasih</p>
+			<p class="text-center"><i> Kami Yang Berbahagia </i></p>
+			<p class="text-center  ass2">Lalu Bayu Alami <br> & <br> Komariyuli Anwariyah</p>
+
+
 			<!-- <img src="images/ihr_qr_code_ohne_logo.jpg" alt=""> -->
 	</div>
 	<!-- <div class="container">
