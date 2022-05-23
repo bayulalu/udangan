@@ -15,15 +15,22 @@
 
 
   	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+	<meta property="og:title" content="Undangan Syukuran dan Akikah"/>
+	<meta property="og:image" content="Undangan Syukuran dan Akikah"/>
+	<meta property="og:url" content="Undangan Syukuran dan Akikah"/>
+	<meta property="og:site_name" content="Undangan Syukuran dan Akikah"/>
+	<meta property="og:description" content="Undangan Syukuran dan Akikah"/>
+	<meta name="twitter:title" content="Undangan Syukuran dan Akikah" />
+	<meta name="twitter:image" content="Undangan Syukuran dan Akikah" />
+	<meta name="twitter:url" content="Undangan Syukuran dan Akikah" />
+	<meta name="twitter:card" content="Undangan Syukuran dan Akikah" />
+
+
+	<meta charset="UTF-8">
+  <meta name="description" content="Undangan Syukuran dan Akikah">
+  <meta name="keywords" content="Undangan Syukuran dan Akikah">
+  <meta name="author" content="Undangan Syukuran dan Akikah">
+  <!-- <meta name="viewport" content="width=device-width, l-scale=1.0"> -->
 
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
