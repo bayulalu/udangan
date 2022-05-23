@@ -25,35 +25,7 @@
 	<meta name="twitter:url" content="Undangan Syukuran dan Akikah" />
 	<meta name="twitter:card" content="Undangan Syukuran dan Akikah" />
 
-	<meta property="og:type" content="article" />
-  <meta property="og:site_name" content="news.schoolmedia.id" />
-  <meta property="og:title" content="Judul Bla bla bla">
-  <meta property="og:image" content="https://news.schoolmedia.id/uploads/konten/4337eb42fd10918d23e0cc18f90e2511945a1fa9/pendidikan_online_-_pixabay.jpg">
-  <meta property="og:description" content="SCHOOLMEDIA NEWS, Jakarta - Kementerian Riset, Teknologi dan Pendidikan Tinggi (Kemristekdikti)">
-  <meta property="og:url" content="https://news.schoolmedia.id/berita/Kemristekdikti-Publikasi-Internasional-Indonesia-Terbanyak-di-ASEAN-757">
-  <meta property="og:image:width" content="650" />
-  <meta property="og:image:height" content="366" />
-  <link rel="alternate" href="https://news.schoolmedia.id/berita/Kemristekdikti-Publikasi-Internasional-Indonesia-Terbanyak-di-ASEAN-757"/>
-
-  <meta itemprop="name" content="News Schoolmedia" />
-  <meta itemprop="description" content="SCHOOLMEDIA NEWS, Jakarta - Kementerian Riset, Teknologi dan Pendidikan Tinggi (Kemristekdikti)" />
-
-  <meta name="googlebot-news" content="index,follow" />
-  <meta name="googlebot" content="index, follow, snippet, imageindex" />
-  <meta name="robots" content="index, follow, snippet, imageindex" />
-  <meta name="teoma" content="index, follow, snippet, imageindex" />
-  <meta name="msnbot" content="index, follow, snippet, imageindex" />
-  <meta name="slurp" content="index, follow, snippet, imageindex" />
-
-  <meta name="subject" content="Situs Berita Sekolah">
-  <meta name="copyright" content="News Schoolmedia">
-  <meta name="author" content="Schoolmedia">
-  <meta name="language" content="Indonesian">
-  <meta name="geo.country" content="id" />
-  <meta name="geo.placename" content="Indonesia" />
-
-  <meta http-equiv="content-language" content="In-Id" />
-  <meta http-equiv="Copyright" content="News Schoolmedia" />
+	
 
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
