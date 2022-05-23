@@ -96,7 +96,7 @@
 						<ul>
 							<li>Hari/Tanggal : Kamis, 26 Mei 2022  </li>
 							<li>Pukul : 11.00 WITA  </li>
-							<li>Alamat : <a href="https://goo.gl/maps/18xS1zk3uPRnCAsk8" target="_blank"> Belakang SDN 1 Kalianyar Kec Terara Lotim </a> </li>
+							<li>Alamat : <a href="https://maps.app.goo.gl/DmEJj41T9SBEkJY16" target="_blank"> Belakang SDN 1 Kalianyar Kec Terara Lotim (Dari arah mataram Perempatan sbelum SD belok ke selatan) </a> </li>
 
 						</ul>
 				
@@ -134,7 +134,7 @@
 	</div>
 
 	<div class="row">
-
+	<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d293.1789013420615!2d116.4069122542223!3d-8.64109436749416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x944a991bfcc7014f!2s!5e0!3m2!1sid!2sid!4v1653274201884!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 		<iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15778.137484503868!2d116.39836146977538!3d-8.640618699999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x56527000cc42e13f!2sSDN%201%20KALIANYAR!5e0!3m2!1sid!2sid!4v1652756454080!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	</div>
 	
