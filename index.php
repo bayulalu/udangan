@@ -25,7 +25,36 @@
 	<meta name="twitter:url" content="Undangan Syukuran dan Akikah" />
 	<meta name="twitter:card" content="Undangan Syukuran dan Akikah" />
 
-	
+	<!-- 
+		
+	 -->
+
+	 <meta property="og:type" content="Undangan Syukuran dan Akikah" />
+  <!-- <meta property="og:site_name" content="news.schoolmedia.id" /> -->
+  <meta property="og:title" content="Undangan Syukuran dan Akikah">
+  <meta property="og:image" content="http://undangan.inges.id/images/IMG20220413134226.jpg">
+  <meta property="og:description" content="Undangan Syukuran dan Akikah">
+  <meta property="og:url" content="Undangan Syukuran dan Akikah">
+  <meta property="og:image:width" content="650" />
+  <meta property="og:image:height" content="366" />
+  <link rel="alternate" href="Undangan Syukuran dan Akikah"/>
+  <meta itemprop="name" content="Undangan Syukuran dan Akikah" />
+  <meta itemprop="description" content="Undangan Syukuran dan Akikah" />
+  <meta name="googlebot-news" content="index,follow" />
+  <meta name="googlebot" content="index, follow, snippet, imageindex" />
+  <meta name="robots" content="index, follow, snippet, imageindex" />
+  <meta name="teoma" content="index, follow, snippet, imageindex" />
+  <meta name="msnbot" content="index, follow, snippet, imageindex" />
+  <meta name="slurp" content="index, follow, snippet, imageindex" />
+  <meta name="subject" content="Undangan Syukuran dan Akikah">
+  <meta name="copyright" content="Undangan Syukuran dan Akikah">
+  <meta name="author" content="Undangan Syukuran dan Akikah">
+  <meta name="language" content="Indonesian">
+  <meta name="geo.country" content="id" />
+  <meta name="geo.placename" content="Indonesia" />
+  <meta http-equiv="content-language" content="In-Id" />
+  <meta http-equiv="Copyright" content="Undangan Syukuran dan Akikah" />
+
 
 	<link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,600,400italic,700' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
